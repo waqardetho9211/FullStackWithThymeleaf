@@ -1,0 +1,1 @@
+Spring Boot Full stack application with Thymeleaf 
